@@ -1,6 +1,6 @@
-title: Abhishek Nagekar
-description: Web & Security Engineer
-site_title: '@abhn - Abhishek Nagekar'
+title: Shubham Gupta
+description: Research Scholar
+site_title: '@shubhamgpt007 - Shubham Gupta'
 
 # Build settings
 markdown: kramdown
@@ -15,7 +15,7 @@ twitter_username: abhn_
 reddit_username: abhn
 
 # absolute or relative
-profile_picture: assets/images/pp.jpg
+profile_picture: assets/images/profile.jpg
 
 # Google Analytics ID
 google_analytics: 
